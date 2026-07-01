@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6j0649/v1
+canonical_location: https://kanripo.org/bkk/KR6j0649/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說壞相金剛陀羅尼經
+  identifiers:
+    alt_id:
+    - T21n1417
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1417.xml
+    old_id: T21n1417
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0649_000.yaml, hash: 'sha256:a00b3a29eb5fea2fcd21312baea77b90ee3fdadbd10bffdb2db971a294792cf7'}
+  - {seq: 1, filename: KR6j0649_001.yaml, hash: 'sha256:44368ba0b2affd1d41fcdcf32808701439cbab0f75a19c1f3b0dfb9ed52892e4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0649_001.markers.yaml, hash: 'sha256:c6b3cf28bb595ddc88dff0322466f965fd1c9914ef2ab2a23e838ed4a915fff1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0649_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1426
+  label: 佛說壞相金剛陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:0020dbf470b19d0b712deb30840e43126fb05f3eac03b33e37cc40765dace525
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T

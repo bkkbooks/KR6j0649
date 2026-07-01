@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0649/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說壞相金剛陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1417.xml
+    old_id: T21n1417
+hash: sha256:a00b3a29eb5fea2fcd21312baea77b90ee3fdadbd10bffdb2db971a294792cf7
